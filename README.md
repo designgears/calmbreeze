@@ -1,8 +1,8 @@
-## CalmBreeze
+# CalmBreeze
 
 CalmBreeze is currently a work in progress!
 
-# Headwind
+## Headwind
 
 [![CircleCI](https://circleci.com/gh/heybourn/headwind.svg?style=svg)](https://circleci.com/gh/heybourn/headwind)
 
